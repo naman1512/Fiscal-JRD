@@ -1,6 +1,6 @@
-# Fiscal - Financial SaaS Application Prototype
+# Smae - Financial SaaS Application Prototype
 
-Fiscal is a financial SaaS application prototype developed by JRD Consultancy. It aims to connect accountants directly with firms and agencies, providing a dashboard for organizing and tracking financial data efficiently.
+Smae is a financial SaaS application prototype developed by JRD Consultancy. It aims to connect accountants directly with firms and agencies, providing a dashboard for organizing and tracking financial data efficiently.
 
 ## Features
 
